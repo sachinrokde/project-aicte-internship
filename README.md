@@ -18,8 +18,8 @@ This project provides a **secure and user-friendly** way to **encrypt and decryp
 
 ## 📥 Installation
 1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/BibiAmina7/AICTE_Encryption_Decryption_project.git
+   ```bas
+   git clone https://github.com/sachinrokde/project-aicte-internship.git
    cd AICTE_Encryption_Decryption_project
    ```
 2. **Install dependencies:**  
