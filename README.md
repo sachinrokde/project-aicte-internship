@@ -47,10 +47,10 @@ This project provides a **secure and user-friendly** way to **encrypt and decryp
 ## 🎯 Screenshots
 
 ### 🔐 Encryption Process
-![Encryption_Output](assets/encrypt.png)
+![Encryption_Output](encrypt.png)
 
 ### 🔓 Decryption Process
-![Decryption_Output](assets/decrypt.png)
+![Decryption_Output](decrypt.png)
 
 ## 🎯 Future Scope
 ✅ Support for **multiple image formats** (JPG, BMP, etc.)  
